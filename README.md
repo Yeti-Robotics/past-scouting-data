@@ -8,7 +8,6 @@ In this repository, you will find YETI's historical scouting data collected duri
 
 ## Contents
 
-The repository is organized into yearly folders, and further organized by event. Each event folder contains the following files:
+The repository is organized into yearly folders, and further organized by event. The structure of the files for each event may change from year-to-year, but will likely be standardized in the future.
 
-- `{event_name}-team-data.json`: Aggregated metrics for each team at the event. Metrics may vary from year-to-year.
-- `{event_name}-stand-forms.json`: Individual match data collected by our scouting team. Each object in the array represents a team's performance in a single match. Stand forms reflect the current year's game and scoring system.
+We'll work to add documentation (i.e., data dictionaries) for all fields in the coming weeks.
