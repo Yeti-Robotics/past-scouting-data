@@ -1,10 +1,10 @@
 # Past Scouting Data
 
-This repository contains our past scouting data.
+<img src="https://github.com/Yeti-Robotics/past-scouting-data/assets/85971377/1cfabe02-137a-42d5-9e32-31a8449107f8" alt="Yeti Robotics Logo" width=300px>
 
 ## Overview
 
-In this repository, you will find YETI's historical scouting data collected during past events. The data includes information about teams, matches, and various performance metrics. Metrics collected may vary from year-to-year
+In this repository, you will find YETI's historical scouting data collected during past events. The data includes information about teams, matches, and various performance metrics. Metrics collected may vary from year-to-year.
 
 ## Contents
 
